@@ -1,5 +1,6 @@
 #Just something I explore and having fun creating it
 #Is something basic to do durring my Sunday, happy weekend
+#Creator: Sabrina Kay
 
 #Create a form
 Add-Type -AssemblyName System.Windows.Forms
